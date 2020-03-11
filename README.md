@@ -26,4 +26,5 @@ __Part 2__
 
 ## Part 3: Leverage MapReduce to aggregate huge amount of data efficiently
 1. Connect Python to MongoDB
-2. Utilize **MapReduce** to carry out analysis highly efficiently instead of using aggregation function 
+2. Store json file to MongoDB line by line
+3. Utilize **MapReduce** to carry out analysis highly efficiently instead of using aggregation function 
